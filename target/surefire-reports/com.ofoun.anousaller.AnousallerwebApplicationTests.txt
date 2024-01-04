@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ofoun.anousaller.AnousallerwebApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.881 s - in com.ofoun.anousaller.AnousallerwebApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.497 s - in com.ofoun.anousaller.AnousallerwebApplicationTests
