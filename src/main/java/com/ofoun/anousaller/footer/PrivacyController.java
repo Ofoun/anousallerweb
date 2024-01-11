@@ -10,7 +10,7 @@ public class PrivacyController {
 	@GetMapping("/privacy")
 	public String showPrivacyForm() {
 		
-		return "/privacy";		
+		return "privacy";		
 	}
 
 }
